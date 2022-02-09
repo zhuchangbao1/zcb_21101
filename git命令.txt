@@ -1,2 +1,4 @@
 git 命令
 1.git add 添加一个文件
+2.git
+
